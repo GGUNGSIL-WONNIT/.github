@@ -1,1 +1,5 @@
-<img width="1920" height="1080" alt="워닛. 유휴시간을 공간 공유로 채우는 지역 상권 활성화 서비스." src="https://github.com/user-attachments/assets/82a48f9d-52fc-4a4c-a575-f782d60a2376" />
+![표지](https://github.com/user-attachments/assets/f8ba1689-3eb6-433d-b94d-875f29ad5cb8)
+
+![기능1](https://github.com/user-attachments/assets/691edad7-8c10-4762-950f-fd82a3633cdd)
+
+![기능2](https://github.com/user-attachments/assets/b30cbaae-3ccd-472d-9b5b-494fb3f16ab9)
